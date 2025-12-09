@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uixWyWC-d6UGDDP0JvM3" name="Page-2">
-    <mxGraphModel dx="4452" dy="1954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4193" dy="1813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -980,6 +980,9 @@
         </mxCell>
         <mxCell id="oX_L-caKrmGxXVdS7A-Z-337" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;پایان&amp;nbsp;&lt;br&gt;Liquidate&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="193" x="1538.76" y="13371" as="geometry" />
+        </mxCell>
+        <mxCell id="oX_L-caKrmGxXVdS7A-Z-339" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;پایان&amp;nbsp;&lt;br&gt;Liquidate&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="193" x="404" y="13653" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
